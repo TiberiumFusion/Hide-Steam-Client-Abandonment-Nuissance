@@ -1,6 +1,8 @@
 Hides the ugly red bar that the Valve/Microsoft trust is currently using to coerce people into downgrading to Bugcrash.
 
-This is achieved by applying a (very basic) skin to the library.
+![buy more bugcrash plz --gaben](https://user-images.githubusercontent.com/6332277/235016091-d67a4fcc-6cdd-4c23-bf4e-7d96005cbd08.png)
+
+Removal is achieved by applying a (very basic) skin to the library.
 
 ### Installation
 1. Download the current release and extract the archive somewhere.
@@ -13,4 +15,4 @@ This is achieved by applying a (very basic) skin to the library.
 
 And voila, the title area is back to being nice and clean and free of coercion.
 
-![github preview image](https://user-images.githubusercontent.com/6332277/235015245-a38cbdef-ed59-427e-9082-7fd6b666eb53.png)
+![after medicine](https://user-images.githubusercontent.com/6332277/235015245-a38cbdef-ed59-427e-9082-7fd6b666eb53.png)
